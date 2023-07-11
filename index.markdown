@@ -1,6 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+# Welcome to Bharathram's blog!
+
+- [About](about.md)
+- [Posts](posts.md)
+
+## Content of the Homepage
+
+<!-- Your homepage content goes here -->
