@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 Hey there, fellow adventurers! I'm Bharathram, a genomics explorer from CSIR-IGIB, on a quest to bring you exciting and diverse content. Get ready for a blog that's packed with fascinating reads, bioinformatics tools, movie recommendations, scientific history stories, and much more!
