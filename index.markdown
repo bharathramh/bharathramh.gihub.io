@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: About
+permalink: /about/
 ---
 
 # Welcome to Bharathram's blog!
