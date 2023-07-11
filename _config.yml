@@ -35,6 +35,21 @@ remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-feed
 
+
+title: Bharathram's Blog
+email: your-email@example.com
+description: >- 
+  Welcome to Bharathram's Blog, Explore fascinating articles, insightful research updates, entertainment  and thought-provoking discussions.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: your-twitter-username
+github_username: your-github-username
+
+# Build settings
+theme: minima
+remote_theme: aterenin/minima-reboot
+plugins:
+  - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
